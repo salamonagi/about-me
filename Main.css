@@ -7,7 +7,7 @@
     font-size: 100%;
   }
   body {
-    background: url('http://i.imgur.com/9kh3G8L.jpg') no-repeat center center fixed;
+    background: url('assets/matchbox-house.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -59,5 +59,11 @@
   }
   li {
     display: inline;
-    font-size: 30px;
+    font-size: 40px;
+  }
+  .blue {
+    color:blue;
+  }
+  .purple {
+    color: purple;
   }
